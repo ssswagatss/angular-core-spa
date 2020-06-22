@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Angular-Core-SPA", "Angular-Core-SPA\Angular-Core-SPA.csproj", "{224F8ED3-76B5-45FA-8B48-0F40EA68B99F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{224F8ED3-76B5-45FA-8B48-0F40EA68B99F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{224F8ED3-76B5-45FA-8B48-0F40EA68B99F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{224F8ED3-76B5-45FA-8B48-0F40EA68B99F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{224F8ED3-76B5-45FA-8B48-0F40EA68B99F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4FA538F5-325D-4EBA-B735-6ED56CB0F443}
+	EndGlobalSection
+EndGlobal
